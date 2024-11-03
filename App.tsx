@@ -24,7 +24,7 @@ export default function App() {
 // import React from 'react';
 // import { StatusBar, StyleSheet, Text, View } from 'react-native';
 
-// // Função principal do aplicativo
+// // Função principal do aplicativoo
 // const App = () => {
 //   return (
 //     // Contêiner principal para a tela
